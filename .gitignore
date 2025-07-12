@@ -1,0 +1,25 @@
+# Compiled files
+*.o
+*.so
+*.a
+*.exe
+pipeline/fortran/*.mod
+pipeline/cpp/build/
+
+# Data files
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
