@@ -1,0 +1,4 @@
+# Expected Results for Pipeline Validation
+# Format: OBS_ID  N_SOURCES  AVG_POSITION_ERROR_ARCSEC  AVG_FLUX_ERROR_PERCENT
+TEST001  5  <2.0  <15.0
+TEST002  3  <2.0  <15.0

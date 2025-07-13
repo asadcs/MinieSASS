@@ -1,0 +1,19 @@
+# MinieSASS Pipeline Acceptance Criteria
+
+## Source Detection
+- Completeness: >90% for sources with S/N > 5
+- Contamination: <10% false positive rate
+- Position accuracy: <2 arcsec RMS for bright sources
+
+## Photometry  
+- Flux accuracy: <15% for sources with >100 counts
+- Background estimation: Within 2-sigma of true value
+
+## Performance
+- Processing time: <60 seconds for 10,000 events
+- Memory usage: <1GB for typical observation
+
+## Quality Assurance
+- No pipeline crashes on valid FITS files
+- Proper error handling for corrupted data
+- Complete processing logs generated

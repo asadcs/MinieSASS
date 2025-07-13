@@ -1,0 +1,6 @@
+# MinieSASS Source Catalog
+# Observation: TEST001
+# Columns: ID RA(deg) DEC(deg) DetX DetY Flux(cts/s) FluxErr Sigma NetCounts TotalCounts
+  1   29.97723    9.95451   172.01   152.05    0.00400    0.00200   4.26      4      4
+  2   30.11372   10.11375   291.86   291.88    0.00400    0.00200   4.26      4      4
+  3   30.20472    9.93176   371.75   132.08    0.00400    0.00200   4.26      4      4
